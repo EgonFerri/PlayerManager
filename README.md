@@ -1,6 +1,10 @@
 # PlayerManger
 A very simple python app with a GUI that can help amateur group of friends to manage their levels for any sport, in order to make balanced teams.
 
-<p align="center">
-![](demopicture.JPG)
+
+<p align="center" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
 </p>
+
+![](demopicture.JPG)
+
