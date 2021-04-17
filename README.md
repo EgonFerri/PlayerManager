@@ -3,7 +3,7 @@ A very simple python app with a GUI that can help amateur group of friends to ma
 
 
 <p align="center" width="100%">
-    ![](demopicture.JPG)
+    <img width="33%" src=<img width="33%" src="demopicture.JPG"> > 
 </p>
 
 ![](demopicture.JPG)
