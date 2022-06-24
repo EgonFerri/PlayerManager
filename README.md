@@ -3,7 +3,7 @@
 A very simple python app with a GUI that can help amateur group of friends to manage their levels for any sport, in order to make balanced teams of 5 or 8 people.
 
 REQUIREMENTS:
-You don't need anything more then python.
+You don't need anything more than python.
 
 INSTRUCTION:
 Download the code, launche the playermanager.py.
